@@ -1,0 +1,1 @@
+git add readme.txt    添加到暂存区里面去
